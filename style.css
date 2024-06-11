@@ -1,0 +1,15 @@
+body{
+    background-color: chocolate;
+}
+h1, h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 24px;
+}
+li{
+    font-size: 22px;
+    font-style: italic;
+}
